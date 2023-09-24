@@ -1,2 +1,1 @@
-# odin-recipes
-Delicious treats
+My first project is about creating a recipe website, completing it will ddemonstrate my ability to create simple HTML based websites as well as ability to use GIT and wrtie proffesional commit messages.
